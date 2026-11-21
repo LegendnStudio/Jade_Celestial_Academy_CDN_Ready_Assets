@@ -1,0 +1,275 @@
+{
+  "project": "Jade Celestial Academy",
+  "package": "Static Asset Hosting",
+  "asset_count": 65,
+  "items": [
+    {
+      "id": "stone_01",
+      "collection": "Spirit Stones",
+      "tier": 1,
+      "rarity": "Common",
+      "open_path": "assets/stone_01.png",
+      "locked_path": "assets/stone_01_locked.png"
+    },
+    {
+      "id": "stone_02",
+      "collection": "Spirit Stones",
+      "tier": 2,
+      "rarity": "Refined",
+      "open_path": "assets/stone_02.png",
+      "locked_path": "assets/stone_02_locked.png"
+    },
+    {
+      "id": "stone_03",
+      "collection": "Spirit Stones",
+      "tier": 3,
+      "rarity": "Superior",
+      "open_path": "assets/stone_03.png",
+      "locked_path": "assets/stone_03_locked.png"
+    },
+    {
+      "id": "stone_04",
+      "collection": "Spirit Stones",
+      "tier": 4,
+      "rarity": "Radiant",
+      "open_path": "assets/stone_04.png",
+      "locked_path": "assets/stone_04_locked.png"
+    },
+    {
+      "id": "stone_05",
+      "collection": "Spirit Stones",
+      "tier": 5,
+      "rarity": "Immortal",
+      "open_path": "assets/stone_05.png",
+      "locked_path": "assets/stone_05_locked.png"
+    },
+    {
+      "id": "pill_01",
+      "collection": "Cultivation Pills",
+      "tier": 1,
+      "rarity": "Common",
+      "open_path": "assets/pill_01.png",
+      "locked_path": "assets/pill_01_locked.png"
+    },
+    {
+      "id": "pill_02",
+      "collection": "Cultivation Pills",
+      "tier": 2,
+      "rarity": "Refined",
+      "open_path": "assets/pill_02.png",
+      "locked_path": "assets/pill_02_locked.png"
+    },
+    {
+      "id": "pill_03",
+      "collection": "Cultivation Pills",
+      "tier": 3,
+      "rarity": "Superior",
+      "open_path": "assets/pill_03.png",
+      "locked_path": "assets/pill_03_locked.png"
+    },
+    {
+      "id": "pill_04",
+      "collection": "Cultivation Pills",
+      "tier": 4,
+      "rarity": "Radiant",
+      "open_path": "assets/pill_04.png",
+      "locked_path": "assets/pill_04_locked.png"
+    },
+    {
+      "id": "pill_05",
+      "collection": "Cultivation Pills",
+      "tier": 5,
+      "rarity": "Immortal",
+      "open_path": "assets/pill_05.png",
+      "locked_path": "assets/pill_05_locked.png"
+    },
+    {
+      "id": "manual_01",
+      "collection": "Cultivation Manuals",
+      "tier": 1,
+      "rarity": "Common",
+      "open_path": "assets/manual_01.png",
+      "locked_path": "assets/manual_01_locked.png"
+    },
+    {
+      "id": "manual_02",
+      "collection": "Cultivation Manuals",
+      "tier": 2,
+      "rarity": "Refined",
+      "open_path": "assets/manual_02.png",
+      "locked_path": "assets/manual_02_locked.png"
+    },
+    {
+      "id": "manual_03",
+      "collection": "Cultivation Manuals",
+      "tier": 3,
+      "rarity": "Superior",
+      "open_path": "assets/manual_03.png",
+      "locked_path": "assets/manual_03_locked.png"
+    },
+    {
+      "id": "manual_04",
+      "collection": "Cultivation Manuals",
+      "tier": 4,
+      "rarity": "Radiant",
+      "open_path": "assets/manual_04.png",
+      "locked_path": "assets/manual_04_locked.png"
+    },
+    {
+      "id": "manual_05",
+      "collection": "Cultivation Manuals",
+      "tier": 5,
+      "rarity": "Immortal",
+      "open_path": "assets/manual_05.png",
+      "locked_path": "assets/manual_05_locked.png"
+    },
+    {
+      "id": "artifact_01",
+      "collection": "Spiritual Artifacts",
+      "tier": 1,
+      "rarity": "Common",
+      "open_path": "assets/artifact_01.png",
+      "locked_path": "assets/artifact_01_locked.png"
+    },
+    {
+      "id": "artifact_02",
+      "collection": "Spiritual Artifacts",
+      "tier": 2,
+      "rarity": "Refined",
+      "open_path": "assets/artifact_02.png",
+      "locked_path": "assets/artifact_02_locked.png"
+    },
+    {
+      "id": "artifact_03",
+      "collection": "Spiritual Artifacts",
+      "tier": 3,
+      "rarity": "Superior",
+      "open_path": "assets/artifact_03.png",
+      "locked_path": "assets/artifact_03_locked.png"
+    },
+    {
+      "id": "artifact_04",
+      "collection": "Spiritual Artifacts",
+      "tier": 4,
+      "rarity": "Radiant",
+      "open_path": "assets/artifact_04.png",
+      "locked_path": "assets/artifact_04_locked.png"
+    },
+    {
+      "id": "artifact_05",
+      "collection": "Spiritual Artifacts",
+      "tier": 5,
+      "rarity": "Immortal",
+      "open_path": "assets/artifact_05.png",
+      "locked_path": "assets/artifact_05_locked.png"
+    },
+    {
+      "id": "seal_01",
+      "collection": "Achievement Seals",
+      "tier": 1,
+      "rarity": "Common",
+      "open_path": "assets/seal_01.png",
+      "locked_path": "assets/seal_01_locked.png"
+    },
+    {
+      "id": "seal_02",
+      "collection": "Achievement Seals",
+      "tier": 2,
+      "rarity": "Refined",
+      "open_path": "assets/seal_02.png",
+      "locked_path": "assets/seal_02_locked.png"
+    },
+    {
+      "id": "seal_03",
+      "collection": "Achievement Seals",
+      "tier": 3,
+      "rarity": "Superior",
+      "open_path": "assets/seal_03.png",
+      "locked_path": "assets/seal_03_locked.png"
+    },
+    {
+      "id": "seal_04",
+      "collection": "Achievement Seals",
+      "tier": 4,
+      "rarity": "Radiant",
+      "open_path": "assets/seal_04.png",
+      "locked_path": "assets/seal_04_locked.png"
+    },
+    {
+      "id": "seal_05",
+      "collection": "Achievement Seals",
+      "tier": 5,
+      "rarity": "Immortal",
+      "open_path": "assets/seal_05.png",
+      "locked_path": "assets/seal_05_locked.png"
+    },
+    {
+      "id": "chest_01",
+      "collection": "Treasure Chests",
+      "tier": 1,
+      "rarity": "Common",
+      "open_path": "assets/chest_01.png",
+      "locked_path": "assets/chest_01_locked.png"
+    },
+    {
+      "id": "chest_02",
+      "collection": "Treasure Chests",
+      "tier": 2,
+      "rarity": "Refined",
+      "open_path": "assets/chest_02.png",
+      "locked_path": "assets/chest_02_locked.png"
+    },
+    {
+      "id": "chest_03",
+      "collection": "Treasure Chests",
+      "tier": 3,
+      "rarity": "Superior",
+      "open_path": "assets/chest_03.png",
+      "locked_path": "assets/chest_03_locked.png"
+    },
+    {
+      "id": "chest_04",
+      "collection": "Treasure Chests",
+      "tier": 4,
+      "rarity": "Radiant",
+      "open_path": "assets/chest_04.png",
+      "locked_path": "assets/chest_04_locked.png"
+    },
+    {
+      "id": "chest_05",
+      "collection": "Treasure Chests",
+      "tier": 5,
+      "rarity": "Immortal",
+      "open_path": "assets/chest_05.png",
+      "locked_path": "assets/chest_05_locked.png"
+    }
+  ],
+  "frames": [
+    {
+      "tier": 1,
+      "rarity": "Common",
+      "path": "assets/frame_T1_Common.png"
+    },
+    {
+      "tier": 2,
+      "rarity": "Refined",
+      "path": "assets/frame_T2_Refined.png"
+    },
+    {
+      "tier": 3,
+      "rarity": "Superior",
+      "path": "assets/frame_T3_Superior.png"
+    },
+    {
+      "tier": 4,
+      "rarity": "Radiant",
+      "path": "assets/frame_T4_Radiant.png"
+    },
+    {
+      "tier": 5,
+      "rarity": "Immortal",
+      "path": "assets/frame_T5_Immortal.png"
+    }
+  ],
+  "base_url_usage": "Set the Google Sheets Treasure Engine base URL to https://your-host/path/assets (no trailing slash)."
+}
