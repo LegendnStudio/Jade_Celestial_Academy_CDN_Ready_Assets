@@ -1,0 +1,62 @@
+[
+  {
+    "path": "assets/world_mortal_world.jpg",
+    "source_px": [
+      2172,
+      724
+    ],
+    "production_px": [
+      2170,
+      434
+    ],
+    "jpeg_quality": 90,
+    "chroma_subsampling": "4:4:4",
+    "bytes": 542543,
+    "previous_bytes": 171528
+  },
+  {
+    "path": "assets/world_spirit_world.jpg",
+    "source_px": [
+      2172,
+      724
+    ],
+    "production_px": [
+      2170,
+      434
+    ],
+    "jpeg_quality": 90,
+    "chroma_subsampling": "4:4:4",
+    "bytes": 458902,
+    "previous_bytes": 164646
+  },
+  {
+    "path": "assets/world_heavenly_tribulation.jpg",
+    "source_px": [
+      2172,
+      724
+    ],
+    "production_px": [
+      2170,
+      434
+    ],
+    "jpeg_quality": 90,
+    "chroma_subsampling": "4:4:4",
+    "bytes": 487343,
+    "previous_bytes": 142984
+  },
+  {
+    "path": "assets/world_immortal_world.jpg",
+    "source_px": [
+      2172,
+      724
+    ],
+    "production_px": [
+      2170,
+      434
+    ],
+    "jpeg_quality": 90,
+    "chroma_subsampling": "4:4:4",
+    "bytes": 544280,
+    "previous_bytes": 153085
+  }
+]
