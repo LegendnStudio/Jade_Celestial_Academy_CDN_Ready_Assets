@@ -1,6 +1,6 @@
 {
   "product": "Jade Celestial Academy",
-  "version": "V11 optimized hosting",
+  "version": "V11.1 production indexed PNG",
   "count": 30,
   "files": [
     {
@@ -9,17 +9,17 @@
       "realm": "Mortal",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        135,
-        216,
-        505,
-        746
+        101,
+        163,
+        379,
+        559
       ],
-      "sha256": "c739524fc8473f2a8a14602cbb86b5292f6ae18159dc7af9ab5709ce4f8f2adb",
-      "file_bytes": 340910
+      "sha256": "195b991bcf2a31b54927221cb8977e68e2c38ef71e95f3dac939ff932705e3ae",
+      "file_bytes": 61233
     },
     {
       "file": "assets/character_00_male.png",
@@ -27,17 +27,17 @@
       "realm": "Mortal",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        133,
-        218,
-        507,
-        746
+        100,
+        164,
+        380,
+        559
       ],
-      "sha256": "0388b550ec226cd8278321ef073bcfe066301531d0c3cd5391338a15b63942c4",
-      "file_bytes": 308880
+      "sha256": "1ebbd819f78da07cbf6675bb45c47c7980de8a731d4ee223c3f7c7402deb5940",
+      "file_bytes": 55792
     },
     {
       "file": "assets/character_01_female.png",
@@ -45,17 +45,17 @@
       "realm": "Qi Condensation",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        70,
-        216,
-        569,
-        746
+        52,
+        162,
+        427,
+        560
       ],
-      "sha256": "a10334e5924a4965aa3e2a0b95d60c76de5695f59b3ddc5904e1225145c2481c",
-      "file_bytes": 476689
+      "sha256": "608ec970690f9d4de48ee26ed1bd964bd728ca16a20679c20ca288643af3cc33",
+      "file_bytes": 77293
     },
     {
       "file": "assets/character_01_male.png",
@@ -63,17 +63,17 @@
       "realm": "Qi Condensation",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        86,
-        221,
-        552,
-        744
+        64,
+        166,
+        414,
+        558
       ],
-      "sha256": "8492813363a52f4d0680419686fdd7d64c695be8e650e4f6483876332ff82753",
-      "file_bytes": 466669
+      "sha256": "4f843ff946cc7276587af3e3b045515fd778791e1682a41f2c8b164ed7e7cce0",
+      "file_bytes": 74535
     },
     {
       "file": "assets/character_02_female.png",
@@ -81,17 +81,17 @@
       "realm": "Foundation Establishment",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        35,
-        212,
-        604,
-        744
+        26,
+        159,
+        453,
+        558
       ],
-      "sha256": "e96c568bad18bd756bc40e0013c04171f36f825f59b1ecf181d4c12802971d4d",
-      "file_bytes": 612868
+      "sha256": "183840e7b38c6b4f4c765049624d6a39d95b20e2d30372aff0eda6585eb7acda",
+      "file_bytes": 98573
     },
     {
       "file": "assets/character_02_male.png",
@@ -99,17 +99,17 @@
       "realm": "Foundation Establishment",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        43,
-        218,
-        597,
-        744
+        32,
+        164,
+        448,
+        558
       ],
-      "sha256": "b7daebd53d3e0fb0c21e3099d41c291f1f6355eda6c4a3883d3bac0b569ec2b8",
-      "file_bytes": 573759
+      "sha256": "55be3fcf8aecc9ed80995bd7e252ffbae449371e31c813e8f1a3dfa9b45e4e0d",
+      "file_bytes": 91846
     },
     {
       "file": "assets/character_03_female.png",
@@ -117,17 +117,17 @@
       "realm": "Core Formation",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        39,
-        40,
-        601,
-        918
+        29,
+        31,
+        451,
+        688
       ],
-      "sha256": "828e0fc2542aaa3c2c4a2b51b0b944af5855b6b4879907058e1a372d4546559a",
-      "file_bytes": 969774
+      "sha256": "ff964430aa1a472e1050293be231681a85fa0995ab83f7e2c64733facc0eea6b",
+      "file_bytes": 162411
     },
     {
       "file": "assets/character_03_male.png",
@@ -135,17 +135,17 @@
       "realm": "Core Formation",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        30,
-        80,
-        610,
-        878
+        24,
+        61,
+        456,
+        658
       ],
-      "sha256": "90ffa931428dbf52decc329d30969827ac9a97783c95a263941a153433e126e8",
-      "file_bytes": 923017
+      "sha256": "dd6e25334b29b6afb30a9869b79da7732f28aa019c6ed51f9dff7015e260b13f",
+      "file_bytes": 155943
     },
     {
       "file": "assets/character_04_female.png",
@@ -153,17 +153,17 @@
       "realm": "Nascent Soul",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        40,
-        40,
-        598,
-        918
+        31,
+        29,
+        449,
+        689
       ],
-      "sha256": "7b3a6f3893202d5f44e4ef4836986ec6e917aea7034e8061f9ae2c64c361d159",
-      "file_bytes": 962271
+      "sha256": "0db46d58742fc476acb73fc61246e66df7971873089a4d743d0ad2017978b8af",
+      "file_bytes": 168145
     },
     {
       "file": "assets/character_04_male.png",
@@ -171,17 +171,17 @@
       "realm": "Nascent Soul",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        30,
-        69,
-        608,
-        889
+        24,
+        53,
+        456,
+        667
       ],
-      "sha256": "2b0b642f6b1d10ad1004f644376fb352c04165e6f5e9866e3da4c87a097f8040",
-      "file_bytes": 971696
+      "sha256": "71fb99e2401e1f41c2afe889f50b3ba45ad1efec6e738c08c290b6e02cd652a4",
+      "file_bytes": 163633
     },
     {
       "file": "assets/character_05_female.png",
@@ -189,17 +189,17 @@
       "realm": "Deity Transformation",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        30,
-        44,
-        608,
-        916
+        24,
+        33,
+        456,
+        687
       ],
-      "sha256": "42bbba0c05707a354d90d59dfc77e3496e131ee6cd905a45c8ee46293ecfb66d",
-      "file_bytes": 1059542
+      "sha256": "c0d11e7c5a5a08dd8093d4fb17581af0e9dace58c6f4714e5bc0d6b4fcf2f956",
+      "file_bytes": 175216
     },
     {
       "file": "assets/character_05_male.png",
@@ -207,17 +207,17 @@
       "realm": "Deity Transformation",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        30,
-        77,
-        608,
-        880
+        24,
+        59,
+        456,
+        660
       ],
-      "sha256": "c4076a08c4832dc3c8913589ba33490217ce6b726aced56f9722b0a984343d34",
-      "file_bytes": 994642
+      "sha256": "070533e1cad24f1988ae6874190db73bcfa149d02334dc660ce1c052701f6709",
+      "file_bytes": 162222
     },
     {
       "file": "assets/character_06_female.png",
@@ -225,17 +225,17 @@
       "realm": "Spatial Tempering",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        720
       ],
-      "sha256": "ad9ba1ad787cba35c970584745d97d057a5a3a3e5c09193253ba7abcf773ad55",
-      "file_bytes": 1387034
+      "sha256": "4923b6c78b7c253939daa2987172ff4c55be7473e71076d895a472f9f8119ca2",
+      "file_bytes": 225584
     },
     {
       "file": "assets/character_06_male.png",
@@ -243,17 +243,17 @@
       "realm": "Spatial Tempering",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        720
       ],
-      "sha256": "3f63ccd9bcb242214a0ee436d2f1742b030f8df0004cde97f60516e0a991256e",
-      "file_bytes": 1385677
+      "sha256": "65a91d2e4c6b9a0a17dd6845ac2390ec49df49b3bf7276b5614f548603a9a7f4",
+      "file_bytes": 223576
     },
     {
       "file": "assets/character_07_female.png",
@@ -261,17 +261,17 @@
       "realm": "Body Integration",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        717
       ],
-      "sha256": "379dd0fed959530ba2adb1b1939200232b4cec1cfbac842cb8bfc0db9252439c",
-      "file_bytes": 1327367
+      "sha256": "d652df97d160ee1e6fbb73a6685da5fdc8bb2f6e86253e9ad1200dbd3373a545",
+      "file_bytes": 204201
     },
     {
       "file": "assets/character_07_male.png",
@@ -279,17 +279,17 @@
       "realm": "Body Integration",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        720
       ],
-      "sha256": "2ee2cb9c1c9f6865813542ffa5aa2e6c6de52ccc3cd283eeabb031550db108e0",
-      "file_bytes": 1192061
+      "sha256": "5be5330f0cdbb1ee94143c0f93c6d364a109b34c9588266ea7cc475c7d87f7cd",
+      "file_bytes": 187494
     },
     {
       "file": "assets/character_08_female.png",
@@ -297,17 +297,17 @@
       "realm": "Grand Ascension",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        720
       ],
-      "sha256": "e9ae6cab09f0be47f7eb3bfd7b93d36305be61d9bdf66697e9f3ab3b32ec3f77",
-      "file_bytes": 1290899
+      "sha256": "f76a8e4d2a9e5d5eff96b0e9e0207860fa39a0f1f07ae16136cbf9cbf391237b",
+      "file_bytes": 209727
     },
     {
       "file": "assets/character_08_male.png",
@@ -315,17 +315,17 @@
       "realm": "Grand Ascension",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        705
       ],
-      "sha256": "eb318189ddc78232a97fcb6d2538ac3fa3c2808d4707fb03169025e982414ad5",
-      "file_bytes": 1203408
+      "sha256": "32f8bbfd74d65573668b5298cd82d626f88e32d370723213229e924871c258e6",
+      "file_bytes": 203667
     },
     {
       "file": "assets/character_09_female.png",
@@ -333,17 +333,17 @@
       "realm": "Tribulation Transcendence",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        33,
-        31,
-        607,
-        929
+        25,
+        24,
+        455,
+        697
       ],
-      "sha256": "7e213a5c8948c70f44b6a53b3eac7abc4fb8c4de21a7db1bc2773760bef2ad9b",
-      "file_bytes": 1074087
+      "sha256": "1bf530e4a17bb025887e39904d5599bb0ef5b6375f32b1a6ab3df9a33f1a0eea",
+      "file_bytes": 179970
     },
     {
       "file": "assets/character_09_male.png",
@@ -351,17 +351,17 @@
       "realm": "Tribulation Transcendence",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
-        0,
-        640,
-        960
+        8,
+        480,
+        700
       ],
-      "sha256": "b6c93138206b1ca4275ec4141dfaee1f8a4038a1b62ee0af2e627d0feaea3451",
-      "file_bytes": 1258491
+      "sha256": "c8ea0a489902e3f82f0022944a68d705f406f3201feb1d64bbd3737bc2e4e77a",
+      "file_bytes": 207895
     },
     {
       "file": "assets/character_10_female.png",
@@ -369,17 +369,17 @@
       "realm": "True Immortal",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        26,
-        45,
-        614,
-        915
+        18,
+        34,
+        461,
+        686
       ],
-      "sha256": "a95fb57f2a57a4d2b663d5fd9878bfdfab32aafdee2ed7759f6200e7789006a5",
-      "file_bytes": 1060549
+      "sha256": "e9f3c23edb17e27867b64b8d7b78a1f6abd46a8ae59ee0facff00e097ce082a5",
+      "file_bytes": 192616
     },
     {
       "file": "assets/character_10_male.png",
@@ -387,17 +387,17 @@
       "realm": "True Immortal",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        26,
-        102,
-        614,
-        858
+        20,
+        77,
+        461,
+        644
       ],
-      "sha256": "75262a1cfb00f7e3b127f8669a3f9ee1c38fb8bf28ed8704ed215d3d5b819dd3",
-      "file_bytes": 942873
+      "sha256": "2d27d57a1424a5f575f2309c11d90d812bf302800161cdd0ec92a7c824dee9f5",
+      "file_bytes": 169861
     },
     {
       "file": "assets/character_11_female.png",
@@ -405,17 +405,17 @@
       "realm": "Golden Immortal",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        26,
-        45,
-        614,
-        915
+        19,
+        34,
+        461,
+        687
       ],
-      "sha256": "49b7bf8ad7d832bd03df55a4c377803ca477701dbd4d09bc296af61f6db6b28c",
-      "file_bytes": 1094606
+      "sha256": "83da561a4d05c51f8e020b0f06c2a4915cc49966bcb0f38ffc7764ccc1f1a4ee",
+      "file_bytes": 186809
     },
     {
       "file": "assets/character_11_male.png",
@@ -423,17 +423,17 @@
       "realm": "Golden Immortal",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
-        26,
-        102,
-        614,
-        858
+        19,
+        77,
+        460,
+        643
       ],
-      "sha256": "c2a6efc9e55e74ffd46cf900c2bf714675d2dac84ee1bc18481a263b1eccdc7c",
-      "file_bytes": 943485
+      "sha256": "91aa58f7dd3fcc83e7071b2048074ad0d0dd4ba71a1ccb5fa0d782f1b0a0fff4",
+      "file_bytes": 159768
     },
     {
       "file": "assets/character_12_female.png",
@@ -441,17 +441,17 @@
       "realm": "Supreme Unity Jade Immortal",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        720
       ],
-      "sha256": "1916c514a74135e4280ea271b573b91c521efbb76a33aa5bc5863e2f8e7eb9fd",
-      "file_bytes": 1367945
+      "sha256": "ee40153e3a44201edd71f72a00a48bdeaab93a9087ce006a898022e7c0386f05",
+      "file_bytes": 223414
     },
     {
       "file": "assets/character_12_male.png",
@@ -459,17 +459,17 @@
       "realm": "Supreme Unity Jade Immortal",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        717
       ],
-      "sha256": "4a70e26ed302670819749e1c8bb7bbdb6f38aba904713d096e23f8baa2388de3",
-      "file_bytes": 1282721
+      "sha256": "1d4b6839c5241254b06fdf1affeb4fb13b560b5ce611e478d22c3ab6d6dc3b7d",
+      "file_bytes": 212162
     },
     {
       "file": "assets/character_13_female.png",
@@ -477,17 +477,17 @@
       "realm": "Zenith Heaven",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        720
       ],
-      "sha256": "9b13a30e18ef42c04ea1c88e9277013d2ccbe9816e9045019d8dadd5add48224",
-      "file_bytes": 1264667
+      "sha256": "8285b3fc0f1b352dac5b2398d5a05558a5f73dcdfa7c8d5cc44634273cfc567c",
+      "file_bytes": 214788
     },
     {
       "file": "assets/character_13_male.png",
@@ -495,17 +495,17 @@
       "realm": "Zenith Heaven",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        717
       ],
-      "sha256": "c303d46a6cffd54c081a47fbd1a5b03a7c0e269fc152d040a1e3c3188f266bb7",
-      "file_bytes": 1246550
+      "sha256": "a92b89793b657e74a80f4e24525bfe1c05830c215a56fbf90f21165d950509d2",
+      "file_bytes": 213563
     },
     {
       "file": "assets/character_14_female.png",
@@ -513,17 +513,17 @@
       "realm": "Dao Ancestor",
       "gender": "female",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        720
       ],
-      "sha256": "251d3235a7aa69a37c87776d5f4583c9f5fc8fef51bb97b02715c30abfbe5b1a",
-      "file_bytes": 1249834
+      "sha256": "cfd6cc0f4f0ff70a5102d95d70cd9f788eb264f6dd0e6432b4f69d9480d6717b",
+      "file_bytes": 221572
     },
     {
       "file": "assets/character_14_male.png",
@@ -531,17 +531,17 @@
       "realm": "Dao Ancestor",
       "gender": "male",
       "pixels": [
-        640,
-        960
+        480,
+        720
       ],
       "bbox": [
         0,
         0,
-        640,
-        960
+        480,
+        720
       ],
-      "sha256": "22d98ac53426ee6e2541378f1c99d3948a33ec78ff427901d1449a652497fc3d",
-      "file_bytes": 1299047
+      "sha256": "f8496b78c92a986649213b552358f7c8507c6e0819457d2987e9262d0bac434e",
+      "file_bytes": 231725
     }
   ]
 }

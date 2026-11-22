@@ -1,0 +1,1237 @@
+{
+  "assets/stone_01.png": {
+    "old_bytes": 144357,
+    "new_bytes": 20972,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.902,
+    "alpha_extrema": [
+      0,
+      254
+    ]
+  },
+  "assets/stone_01_locked.png": {
+    "old_bytes": 113134,
+    "new_bytes": 22085,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.383,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/stone_02.png": {
+    "old_bytes": 201462,
+    "new_bytes": 31131,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.326,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/stone_02_locked.png": {
+    "old_bytes": 149100,
+    "new_bytes": 30095,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.571,
+    "alpha_extrema": [
+      0,
+      251
+    ]
+  },
+  "assets/stone_03.png": {
+    "old_bytes": 186427,
+    "new_bytes": 30671,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.122,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/stone_03_locked.png": {
+    "old_bytes": 142060,
+    "new_bytes": 29377,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.515,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/stone_04.png": {
+    "old_bytes": 272706,
+    "new_bytes": 42641,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.48,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/stone_04_locked.png": {
+    "old_bytes": 200646,
+    "new_bytes": 37020,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.612,
+    "alpha_extrema": [
+      0,
+      251
+    ]
+  },
+  "assets/stone_05.png": {
+    "old_bytes": 296231,
+    "new_bytes": 43572,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 2.085,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/stone_05_locked.png": {
+    "old_bytes": 217420,
+    "new_bytes": 43511,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.76,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/pill_01.png": {
+    "old_bytes": 154196,
+    "new_bytes": 23025,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.94,
+    "alpha_extrema": [
+      0,
+      254
+    ]
+  },
+  "assets/pill_01_locked.png": {
+    "old_bytes": 120971,
+    "new_bytes": 23445,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.37,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/pill_02.png": {
+    "old_bytes": 197853,
+    "new_bytes": 31170,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.313,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/pill_02_locked.png": {
+    "old_bytes": 147184,
+    "new_bytes": 29316,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.572,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/pill_03.png": {
+    "old_bytes": 167545,
+    "new_bytes": 29166,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.128,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/pill_03_locked.png": {
+    "old_bytes": 127481,
+    "new_bytes": 27800,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.486,
+    "alpha_extrema": [
+      0,
+      251
+    ]
+  },
+  "assets/pill_04.png": {
+    "old_bytes": 275296,
+    "new_bytes": 44720,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.528,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/pill_04_locked.png": {
+    "old_bytes": 206926,
+    "new_bytes": 39791,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.637,
+    "alpha_extrema": [
+      0,
+      251
+    ]
+  },
+  "assets/pill_05.png": {
+    "old_bytes": 299598,
+    "new_bytes": 47386,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.984,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/pill_05_locked.png": {
+    "old_bytes": 226694,
+    "new_bytes": 46023,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.754,
+    "alpha_extrema": [
+      0,
+      251
+    ]
+  },
+  "assets/manual_01.png": {
+    "old_bytes": 160407,
+    "new_bytes": 27374,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.782,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/manual_01_locked.png": {
+    "old_bytes": 123165,
+    "new_bytes": 27403,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.371,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/manual_02.png": {
+    "old_bytes": 214223,
+    "new_bytes": 35461,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.345,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/manual_02_locked.png": {
+    "old_bytes": 158714,
+    "new_bytes": 34822,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.58,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/manual_03.png": {
+    "old_bytes": 256432,
+    "new_bytes": 42487,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.404,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/manual_03_locked.png": {
+    "old_bytes": 183740,
+    "new_bytes": 39449,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.496,
+    "alpha_extrema": [
+      0,
+      251
+    ]
+  },
+  "assets/manual_04.png": {
+    "old_bytes": 297820,
+    "new_bytes": 46159,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.775,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/manual_04_locked.png": {
+    "old_bytes": 218247,
+    "new_bytes": 44406,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.62,
+    "alpha_extrema": [
+      0,
+      251
+    ]
+  },
+  "assets/manual_05.png": {
+    "old_bytes": 317142,
+    "new_bytes": 51040,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.94,
+    "alpha_extrema": [
+      3,
+      255
+    ]
+  },
+  "assets/manual_05_locked.png": {
+    "old_bytes": 229704,
+    "new_bytes": 49228,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.684,
+    "alpha_extrema": [
+      0,
+      251
+    ]
+  },
+  "assets/artifact_01.png": {
+    "old_bytes": 142263,
+    "new_bytes": 19657,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.772,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/artifact_01_locked.png": {
+    "old_bytes": 116276,
+    "new_bytes": 20884,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.404,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/artifact_02.png": {
+    "old_bytes": 209877,
+    "new_bytes": 33650,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.278,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/artifact_02_locked.png": {
+    "old_bytes": 163675,
+    "new_bytes": 32560,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.554,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/artifact_03.png": {
+    "old_bytes": 221500,
+    "new_bytes": 34737,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.291,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/artifact_03_locked.png": {
+    "old_bytes": 164187,
+    "new_bytes": 33031,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.566,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/artifact_04.png": {
+    "old_bytes": 223378,
+    "new_bytes": 37335,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.365,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/artifact_04_locked.png": {
+    "old_bytes": 175853,
+    "new_bytes": 36101,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.55,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/artifact_05.png": {
+    "old_bytes": 325430,
+    "new_bytes": 48877,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.88,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/artifact_05_locked.png": {
+    "old_bytes": 240969,
+    "new_bytes": 46889,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.795,
+    "alpha_extrema": [
+      0,
+      251
+    ]
+  },
+  "assets/seal_01.png": {
+    "old_bytes": 165436,
+    "new_bytes": 25795,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.795,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/seal_01_locked.png": {
+    "old_bytes": 130047,
+    "new_bytes": 25733,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.38,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/seal_02.png": {
+    "old_bytes": 238833,
+    "new_bytes": 38474,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.245,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/seal_02_locked.png": {
+    "old_bytes": 178079,
+    "new_bytes": 36136,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.595,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/seal_03.png": {
+    "old_bytes": 252635,
+    "new_bytes": 40944,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.531,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/seal_03_locked.png": {
+    "old_bytes": 189600,
+    "new_bytes": 39661,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.52,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/seal_04.png": {
+    "old_bytes": 310414,
+    "new_bytes": 43363,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 2.034,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/seal_04_locked.png": {
+    "old_bytes": 227837,
+    "new_bytes": 44606,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.621,
+    "alpha_extrema": [
+      0,
+      251
+    ]
+  },
+  "assets/seal_05.png": {
+    "old_bytes": 343748,
+    "new_bytes": 54213,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.965,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/seal_05_locked.png": {
+    "old_bytes": 252164,
+    "new_bytes": 51091,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.757,
+    "alpha_extrema": [
+      0,
+      251
+    ]
+  },
+  "assets/chest_01.png": {
+    "old_bytes": 165139,
+    "new_bytes": 26531,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.772,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/chest_01_locked.png": {
+    "old_bytes": 123315,
+    "new_bytes": 26351,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.366,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/chest_02.png": {
+    "old_bytes": 224173,
+    "new_bytes": 36955,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.222,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/chest_02_locked.png": {
+    "old_bytes": 165312,
+    "new_bytes": 35930,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.561,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/chest_03.png": {
+    "old_bytes": 214838,
+    "new_bytes": 36554,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.291,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/chest_03_locked.png": {
+    "old_bytes": 160234,
+    "new_bytes": 35609,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.514,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/chest_04.png": {
+    "old_bytes": 243616,
+    "new_bytes": 39813,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.545,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/chest_04_locked.png": {
+    "old_bytes": 188161,
+    "new_bytes": 39905,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.614,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/chest_05.png": {
+    "old_bytes": 297008,
+    "new_bytes": 49363,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 1.655,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/chest_05_locked.png": {
+    "old_bytes": 216824,
+    "new_bytes": 47077,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.664,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/frame_T1_Common.png": {
+    "old_bytes": 3553,
+    "new_bytes": 3748,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.143,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/frame_T2_Refined.png": {
+    "old_bytes": 31295,
+    "new_bytes": 11475,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.419,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/frame_T3_Superior.png": {
+    "old_bytes": 34686,
+    "new_bytes": 13278,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.438,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/frame_T4_Radiant.png": {
+    "old_bytes": 46877,
+    "new_bytes": 16259,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.544,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/frame_T5_Immortal.png": {
+    "old_bytes": 54491,
+    "new_bytes": 21173,
+    "size": [
+      320,
+      320
+    ],
+    "display_mae": 0.623,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "assets/character_00_female.png": {
+    "old_bytes": 340910,
+    "new_bytes": 61233,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 0.409,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_00_male.png": {
+    "old_bytes": 308880,
+    "new_bytes": 55792,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 0.327,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_01_female.png": {
+    "old_bytes": 476689,
+    "new_bytes": 77293,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 0.675,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_01_male.png": {
+    "old_bytes": 466669,
+    "new_bytes": 74535,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 0.666,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_02_female.png": {
+    "old_bytes": 612868,
+    "new_bytes": 98573,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 0.963,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_02_male.png": {
+    "old_bytes": 573759,
+    "new_bytes": 91846,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 0.793,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_03_female.png": {
+    "old_bytes": 969774,
+    "new_bytes": 162411,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.573,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_03_male.png": {
+    "old_bytes": 923017,
+    "new_bytes": 155943,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.458,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_04_female.png": {
+    "old_bytes": 962271,
+    "new_bytes": 168145,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.591,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_04_male.png": {
+    "old_bytes": 971696,
+    "new_bytes": 163633,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.63,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_05_female.png": {
+    "old_bytes": 1059542,
+    "new_bytes": 175216,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.994,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_05_male.png": {
+    "old_bytes": 994642,
+    "new_bytes": 162222,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.884,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_06_female.png": {
+    "old_bytes": 1387034,
+    "new_bytes": 225584,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.809,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_06_male.png": {
+    "old_bytes": 1385677,
+    "new_bytes": 223576,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.991,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_07_female.png": {
+    "old_bytes": 1327367,
+    "new_bytes": 204201,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 2.137,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_07_male.png": {
+    "old_bytes": 1192061,
+    "new_bytes": 187494,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 2.112,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_08_female.png": {
+    "old_bytes": 1290899,
+    "new_bytes": 209727,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.915,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_08_male.png": {
+    "old_bytes": 1203408,
+    "new_bytes": 203667,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.627,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_09_female.png": {
+    "old_bytes": 1074087,
+    "new_bytes": 179970,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.897,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_09_male.png": {
+    "old_bytes": 1258491,
+    "new_bytes": 207895,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.838,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_10_female.png": {
+    "old_bytes": 1060549,
+    "new_bytes": 192616,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.702,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_10_male.png": {
+    "old_bytes": 942873,
+    "new_bytes": 169861,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.5,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_11_female.png": {
+    "old_bytes": 1094606,
+    "new_bytes": 186809,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.786,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_11_male.png": {
+    "old_bytes": 943485,
+    "new_bytes": 159768,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.468,
+    "alpha_extrema": [
+      0,
+      253
+    ]
+  },
+  "assets/character_12_female.png": {
+    "old_bytes": 1367945,
+    "new_bytes": 223414,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 2.158,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_12_male.png": {
+    "old_bytes": 1282721,
+    "new_bytes": 212162,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.991,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_13_female.png": {
+    "old_bytes": 1264667,
+    "new_bytes": 214788,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.773,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_13_male.png": {
+    "old_bytes": 1246550,
+    "new_bytes": 213563,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.8,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_14_female.png": {
+    "old_bytes": 1249834,
+    "new_bytes": 221572,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.483,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  },
+  "assets/character_14_male.png": {
+    "old_bytes": 1299047,
+    "new_bytes": 231725,
+    "size": [
+      480,
+      720
+    ],
+    "display_mae": 1.542,
+    "alpha_extrema": [
+      0,
+      252
+    ]
+  }
+}
