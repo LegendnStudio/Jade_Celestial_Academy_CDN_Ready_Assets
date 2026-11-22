@@ -1,0 +1,157 @@
+{
+  "asset_count": 19,
+  "assets": [
+    {
+      "file": "emblem_00.png",
+      "source": "00_Mortal.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 231127,
+      "bytes": 19160
+    },
+    {
+      "file": "emblem_01.png",
+      "source": "01_Qi_Condensation.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 299780,
+      "bytes": 24186
+    },
+    {
+      "file": "emblem_02.png",
+      "source": "02_Foundation_Establishment.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 227492,
+      "bytes": 19075
+    },
+    {
+      "file": "emblem_03.png",
+      "source": "03_Core_Formation.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 265625,
+      "bytes": 21218
+    },
+    {
+      "file": "emblem_04.png",
+      "source": "04_Nascent_Soul.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 219187,
+      "bytes": 18870
+    },
+    {
+      "file": "emblem_05.png",
+      "source": "05_Deity_Transformation.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 325184,
+      "bytes": 28046
+    },
+    {
+      "file": "emblem_06.png",
+      "source": "06_Spatial_Tempering.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 263635,
+      "bytes": 22063
+    },
+    {
+      "file": "emblem_07.png",
+      "source": "07_Body_Integration.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 263357,
+      "bytes": 21794
+    },
+    {
+      "file": "emblem_08.png",
+      "source": "08_Grand_Ascension.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 220197,
+      "bytes": 19981
+    },
+    {
+      "file": "emblem_09.png",
+      "source": "09_Tribulation_Transcendence.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 240331,
+      "bytes": 19494
+    },
+    {
+      "file": "emblem_10.png",
+      "source": "10_True_Immortal.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 213114,
+      "bytes": 16791
+    },
+    {
+      "file": "emblem_11.png",
+      "source": "11_Golden_Immortal.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 227410,
+      "bytes": 17996
+    },
+    {
+      "file": "emblem_12.png",
+      "source": "12_Supreme_Unity_Jade_Immortal.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 285299,
+      "bytes": 22658
+    },
+    {
+      "file": "emblem_13.png",
+      "source": "13_Zenith_Heaven.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 299300,
+      "bytes": 24962
+    },
+    {
+      "file": "emblem_14.png",
+      "source": "14_Dao_Ancestor.png",
+      "width": 256,
+      "height": 256,
+      "source_bytes": 267944,
+      "bytes": 21499
+    },
+    {
+      "file": "world_mortal_world.jpg",
+      "source": "01_Mortal_World_Banner.jpg",
+      "width": 1280,
+      "height": 256,
+      "source_bytes": 418221,
+      "bytes": 171528
+    },
+    {
+      "file": "world_spirit_world.jpg",
+      "source": "02_Spirit_World_Banner.jpg",
+      "width": 1280,
+      "height": 256,
+      "source_bytes": 400556,
+      "bytes": 164646
+    },
+    {
+      "file": "world_heavenly_tribulation.jpg",
+      "source": "03_Heavenly_Tribulation_Banner.jpg",
+      "width": 1280,
+      "height": 256,
+      "source_bytes": 349031,
+      "bytes": 142984
+    },
+    {
+      "file": "world_immortal_world.jpg",
+      "source": "04_Immortal_World_Banner.jpg",
+      "width": 1280,
+      "height": 256,
+      "source_bytes": 374701,
+      "bytes": 153085
+    }
+  ]
+}
